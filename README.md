@@ -7,8 +7,8 @@ With that in mind, if you want to update your Discord server with GitHub commits
 Open your Server Settings and head into the Integrations tab:
 Click the "Create Webhook" button to create a new webhook!
 
-https://support.discord.com/hc/article_attachments/1500000463501/Screen_Shot_2020-12-15_at_4.41.53_PM.png
+![alt text](https://support.discord.com/hc/article_attachments/1500000463501/Screen_Shot_2020-12-15_at_4.41.53_PM.png)
 
 Copy the webhook URL and add it to the top section of the AHK
 
-https://support.discord.com/hc/article_attachments/360101553853/Screen_Shot_2020-12-15_at_4.51.38_PM.png
+![alt text](https://support.discord.com/hc/article_attachments/360101553853/Screen_Shot_2020-12-15_at_4.51.38_PM.png)
